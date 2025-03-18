@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Raj</h1>
 <h3 align="center">A Developer who loves to code at night</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chirag047&label=Profile%20views&color=0e75b6&style=flat" alt="hunt-tech" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hunt-tech&label=Profile%20views&color=0e75b6&style=flat" alt="hunt-tech" /> </p>
 <img align='right' src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="300">
 
 
