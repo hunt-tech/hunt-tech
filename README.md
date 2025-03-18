@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Chirag Nagar</h1>
+<h1 align="center">Hi 👋, I'm Ankit Raj</h1>
 <h3 align="center">A Developer who loves to code at night</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chirag047&label=Profile%20views&color=0e75b6&style=flat" alt="Chirag047" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chirag047&label=Profile%20views&color=0e75b6&style=flat" alt="hunt-tech" /> </p>
 <img align='right' src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="300">
 
 
-- 🔭 I’m currently working on **Webdev Projects**
+- 🔭 I’m currently pursuing  **B.tech in C.S**
 
 - 🌱 I’m currently learning **ReactJs** and **TypeScript**
-
-- 📃 Resume : <a href="https://drive.google.com/file/d/1g0NJfGPVHClpxMVZhvD7PW9clpGy-p-3/view?usp=sharing" target="blank"><img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="Chirag Resume" height="20" /></a>
 
 <!-- - 👯 I’m looking to collaborate on **Open Source Projects** -->
 
 <!-- - 💬 Ask me about **Flutter, Dart, Appwrite and Unity** -->
 
-- 📫 How to reach me **chiragnagar.tech@gmail.com**
+- 📫 How to reach me **raj005379@gmail.com**
 
-- ⚡ Interesting fact **I am a Content Creator**
+- ⚡ Interesting fact **I am a Professional E-sports player**
 
 
 <h3 align="left">Connect with me:</h3>
