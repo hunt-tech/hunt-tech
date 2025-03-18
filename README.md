@@ -48,6 +48,6 @@
 </p>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chirag047&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Chirag047" />
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Chirag047&show_icons=true&theme=dark&locale=en" alt="Chirag047" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunt-tech&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="hunt-tech" />
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hunt-tech&show_icons=true&theme=dark&locale=en" alt="hunt-tech" /></p>
 
